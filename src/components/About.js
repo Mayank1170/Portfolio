@@ -1,5 +1,6 @@
 import React from 'react'
 import FollowMe from './FollowMe'
+
 const About = () => {
     return (
         <div class="flex items-center justify-center h-screen">
@@ -22,6 +23,7 @@ const About = () => {
                     </p>
                 </div>
             </div>
+
         </div >
     )
 }
