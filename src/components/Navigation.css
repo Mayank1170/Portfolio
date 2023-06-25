@@ -8,6 +8,7 @@ h2 {
 
 html,
 body {
+  top: 0px;
   margin: 0;
   height: 100%;
 }
@@ -22,7 +23,6 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  background-color:#2F2F2F;
   color: #FFF;
   height: 100%;
   padding: 1em;
@@ -85,7 +85,7 @@ justify-content: center;
 }
 
 #menu-toggle:checked + .menu-button-container .menu-button {
-  background: rgba(255, 255, 255, 0);
+  background: rgba(202, 6, 6, 0);
 }
 
 #menu-toggle:checked + .menu-button-container .menu-button::after {

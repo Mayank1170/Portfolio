@@ -9,7 +9,7 @@ function clr(){
     document.getElementById("bookmark").style.backgroundColor = "#3B82F6";
   }
   else{
-    document.getElementById("bookmark").style.backgroundColor = "#2F2F2F";
+    document.getElementById("bookmark").style.backgroundColor = "#5E5E5E";
     
   }
 }
