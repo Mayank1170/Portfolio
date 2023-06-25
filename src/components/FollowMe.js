@@ -6,13 +6,13 @@ const FollowMe = () => {
   return (
     <div>
       <ul className="">
-          <li className="w-14 border-8 border-t-[15px] border-[#1DA1F2] rounded-tr-lg">
+          <li className="w-14 border-8 border-y-[15px] border-[#1DA1F2] rounded-tr-lg">
               <img src ={twitter} alt={"Twitter logo"}/>
           </li>
-          <li className="w-14 border-8 border-black">
+          <li className="w-14 border-8 border-y-[15px] border-black">
           <img src ={GitHub} alt={"GitHub logo"}/>
           </li>
-          <li className="w-14 border-8 border-[#0274B3] rounded-br-lg">
+          <li className="w-14 border-8 border-y-[15px] border-[#0274B3] rounded-br-lg">
           <img src ={LinkedIn} alt={"LinkedIn logo"}/>
           </li>
       </ul>

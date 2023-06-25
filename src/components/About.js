@@ -3,18 +3,19 @@ import FollowMe from './FollowMe'
 const About = () => {
     return (
         <div class="flex items-center justify-center h-screen">
-            <FollowMe/>
+            <FollowMe />
+
             <div className="text-center w-full space-y-3">
                 <h1 className="text-3xl text-[#CACACA] font-bold">Hello, my name is Mayank Agarwal</h1>
                 <div className="flex-col justify-center items-center text-[#CACACA] space-y-2">
                     <p>
-                        I am an award-winning full-stack web developer and UI/UX JavaScript specialist.
+                        wjkdwn  djkwned edjwendkm wdn wdwqkdlnwdkwdj idjqwd dhwd weeh
                     </p>
                     <p>
-                        Check out my articles, React and React Native UI components at the code laboratory.
+                        djkwndjkwe djewdjiw dweqhflqef eufhew ifnf lwef wefiewfiwjfqf ewfhjewifjqew efjwekn
                     </p>
                     <p>
-                        Feel free to take a look at my latest projects on the web portfolio page.
+                        ejbkcewjk ifjeikfl erhr eh riueifuher ferh fehfkje fejkef hej fkekhj n,f asdn,
                     </p>
                     <p>
                         You can contact me at mayankaga1170@gmail.com

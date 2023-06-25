@@ -22,8 +22,7 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  background-color: #00BAF0;
-  background: linear-gradient(to left, #f46b45, #eea849);
+  background-color:#2F2F2F;
   color: #FFF;
   height: 100%;
   padding: 1em;
